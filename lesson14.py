@@ -1,4 +1,4 @@
-# 4 задача
+# 2 задача
 def groupAnagrams(strs):
     anagrams = {}
     for word in strs:
